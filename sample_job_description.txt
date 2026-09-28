@@ -1,0 +1,12 @@
+Python Developer / Generative AI Intern
+
+Required skills:
+Python, SQL, Machine Learning, Generative AI, Large Language Models (LLMs),
+RAG, NLP, APIs, GitHub, FastAPI, Streamlit.
+
+Responsibilities:
+- Build Python-based AI applications.
+- Work with LLMs and prompt engineering.
+- Develop document and text processing workflows.
+- Create APIs and integrate AI services.
+- Test and improve application responses.
